@@ -2,3 +2,6 @@ build
 example/guard
 python3*
 example/__pycache__
+cmake-build-debug
+CMakeLists.txt
+.idea
